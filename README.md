@@ -50,3 +50,11 @@ The current site intentionally returns a clear `503` configuration message when 
 The site uses honest placeholders for the founder biography, founder image, approved services and deliverables, prices, case studies, testimonials, business contact details, scheduler, resource/lead magnet, analytics, consent platform, final public origin, legal jurisdiction, and vendor disclosures. Supply and approve these items before publication. See `docs/content-approvals.md`.
 
 The site is not published from this handoff. The current result is a managed Preview/checkpoint candidate only.
+
+## GitHub Pages
+
+The project is connected to the private GitHub repository `vickautomations/victorrobertbooksagency.kesug.com`. `.github/workflows/pages.yml` builds the static bundle with `pnpm build:pages`, copies the SPA entrypoint to `404.html` for client-side routes, and deploys through GitHub Pages. Keep the repository private as requested. GitHub Pages for private repositories depends on the GitHub plan and repository Pages settings.
+
+After enabling **Settings → Pages → Source: GitHub Actions**, the default project-site URL will use the repository path. If a custom domain is configured, set `PAGES_BASE_PATH=/` in `scripts/build-pages.mjs` and update the canonical/OG origin before launch.
+
+GitHub Pages cannot run the Express `/api/inquiry` endpoint. The static form remains honest and will show that its external destination is not connected until the client is wired to an approved third-party form or webhook that supports static hosting.

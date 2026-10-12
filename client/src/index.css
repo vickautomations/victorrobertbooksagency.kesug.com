@@ -80,6 +80,11 @@ p { margin:0 0 1.1rem; color:var(--muted); }
 .home-hero-art { position:relative; min-height:560px; display:flex; align-items:center; justify-content:center; }
 .home-hero-art::before { content:""; position:absolute; width:455px; height:455px; border:1px solid rgba(200,154,61,.38); border-radius:50%; }
 .home-hero-art img { position:relative; width:75%; height:370px; object-fit:cover; filter:saturate(.78) contrast(1.05); box-shadow:30px 30px 0 rgba(200,154,61,.17); }
+.hero-book-stack { position:relative; width:360px; height:285px; transform:rotate(-7deg); }
+.hero-book-stack span { position:absolute; left:50%; width:290px; height:66px; background:linear-gradient(90deg, #06172b 0%, #173b60 46%, #C89A3D 47%, #E4C47A 52%, #0a203a 54%, #06172b 100%); border:1px solid rgba(228,196,122,.34); box-shadow:18px 17px 0 rgba(0,0,0,.18); }
+.hero-book-stack span:nth-child(1) { top:42px; transform:translateX(-42%) rotate(-5deg); }
+.hero-book-stack span:nth-child(2) { top:105px; transform:translateX(-52%) rotate(4deg); }
+.hero-book-stack span:nth-child(3) { top:168px; transform:translateX(-39%) rotate(-2deg); }
 .hero-art-card { position:absolute; bottom:50px; left:0; padding:22px 24px; background:var(--gold); color:var(--navy); min-width:195px; }
 .hero-art-card span { display:block; font-size:10px; text-transform:uppercase; letter-spacing:.12em; margin-bottom:12px; }
 .hero-art-card strong { font-family:'Cormorant Garamond', Georgia, serif; font-size:27px; line-height:.9; }
@@ -341,6 +346,11 @@ p { margin:0 0 1.1rem; color:var(--muted); }
   .hero-signals { margin-top:45px; gap:12px; }
   .home-hero-art { min-height:340px; }
   .home-hero-art img { height:230px; width:74%; box-shadow:17px 17px 0 rgba(200,154,61,.17); }
+  .hero-book-stack { width:290px; height:230px; }
+  .hero-book-stack span { width:235px; height:52px; }
+  .hero-book-stack span:nth-child(1) { top:30px; }
+  .hero-book-stack span:nth-child(2) { top:80px; }
+  .hero-book-stack span:nth-child(3) { top:130px; }
   .home-hero-art::before { width:295px; height:295px; }
   .hero-art-card { bottom:8px; left:5px; padding:16px; min-width:160px; }
   .hero-art-card strong { font-size:23px; }

@@ -1,10 +1,12 @@
+const asset = (name: string) => `${import.meta.env.BASE_URL}${name}`;
+
 export const brand = {
   name: "Victor Robert Book Marketing Agency",
   shortName: "Victor Robert",
   founder: "Victor Robert",
   strapline: "Great Books. Greater Reach.",
-  logo: "/manus-storage/VictorRobertBookMarketingLogo_d72e6bf7.png",
-  heroImage: "/manus-storage/async-images/L0mhD3SJukVsfI8T8AZecu/image-1.webp",
+  logo: asset("logo.png"),
+  heroImage: "",
   origin: "",
   email: "",
   phone: "",

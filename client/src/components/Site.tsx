@@ -104,7 +104,7 @@ export function SectionHeading({ eyebrow, title, text, dark = false }: { eyebrow
 
 export function PageHero({ eyebrow, title, text, meta, image = false }: { eyebrow: string; title: string; text: string; meta?: string; image?: boolean }) {
   return <section className={`page-hero ${image ? "page-hero--image" : ""}`}>
-    <div className="shell page-hero-grid"><div className="page-hero-copy"><SectionLabel>{eyebrow}</SectionLabel><h1>{title}</h1><p>{text}</p>{meta && <span className="hero-meta">{meta}</span>}</div>{image && <div className="hero-art"><img src={brand.heroImage} alt="Navy and gold hardback books arranged in a quiet editorial setting" /><span className="art-caption">A considered campaign begins with a clear point of view.</span></div>}</div>
+    <div className="shell page-hero-grid"><div className="page-hero-copy"><SectionLabel>{eyebrow}</SectionLabel><h1>{title}</h1><p>{text}</p>{meta && <span className="hero-meta">{meta}</span>}</div>{image && brand.heroImage && <div className="hero-art"><img src={brand.heroImage} alt="Navy and gold hardback books arranged in a quiet editorial setting" /><span className="art-caption">A considered campaign begins with a clear point of view.</span></div>}</div>
   </section>;
 }
 
