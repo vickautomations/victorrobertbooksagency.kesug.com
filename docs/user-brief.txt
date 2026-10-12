@@ -1,0 +1,935 @@
+# MASTER WEBSITE DEVELOPMENT PROMPT — VICTOR ROBERT BOOK MARKETING AGENCY
+
+## 1. Project Overview
+
+Hello Manus,
+
+I am **Victor Robert**, founder of **Victor Robert Book Marketing Agency**, and I am a book marketing specialist.
+
+I want you to design, develop, and code a complete, premium, professional, highly interactive, animated, multi-page website for my book marketing brand.
+
+### Website reference
+
+https://albertnathanagency.com/
+
+Use this website as the primary reference for the site's structure, page organization, content depth, user experience, marketing functionality, and overall professionalism.
+
+**My goal is to build our own original website that offers the same breadth and level of detail as the reference, but with our own branding, identity, content, design direction, and positioning.**
+
+I already have my own brand logo. Do not create a replacement logo. I will provide the existing logo for you to incorporate into the website.
+
+This is not a request for a simple landing page, a generic agency template, or a website mockup. I want a complete, functional, production-quality website, with each page individually designed and coded.
+
+## 2. First, Research the Entire Reference Website
+
+Before writing code, thoroughly inspect the reference website:
+
+https://albertnathanagency.com/
+
+Visit every accessible page, including all pages linked through the navigation, footer, buttons, service cards, case studies, pricing sections, and calls to action.
+
+At minimum, investigate these pages and their equivalents:
+
+1. Home
+2. About
+3. Services
+4. Individual service detail pages, where available
+5. Case Studies
+6. Pricing
+7. Testimonials
+8. Process
+9. FAQ
+10. Contact
+11. Consultation or booking page, if available
+12. Resources, lead magnets, or blog pages, if available
+13. Privacy Policy
+14. Terms and Conditions
+15. Any other relevant public-facing pages discovered during research
+
+Do not rely exclusively on the homepage. The reference website contains information and functionality spread across multiple pages, and I want you to understand the full structure before developing our version.
+
+For every page, examine:
+
+- Its purpose and target audience.
+- Its page structure and content hierarchy.
+- Its navigation and internal links.
+- Its headings, copywriting style, and content sections.
+- Its cards, grids, images, and visual elements.
+- Its animations, interactions, hover effects, and transitions.
+- Its forms, buttons, and calls to action.
+- Its mobile and desktop layout.
+- Its footer and cross-page navigation.
+- Its SEO structure and relevant metadata.
+- Its conversion strategy and user journey.
+
+Create a complete page inventory and website sitemap before coding.
+
+If a page is inaccessible, document that limitation and continue with the remaining accessible pages. Do not pretend to have inspected a page you could not access.
+
+## 3. Brand Identity and Positioning
+
+The business name is:
+
+**Victor Robert Book Marketing Agency**
+
+Founder: Victor Robert
+
+Professional positioning: Book Marketing Specialist / Book Marketing Expert.
+
+The website must position the agency as a credible, knowledgeable, strategic, professional partner for authors who want to improve their book's visibility, discoverability, audience reach, author brand, and marketing performance.
+
+Our intended audience includes:
+
+- First-time and debut authors.
+- Self-published and independent authors.
+- Traditionally published authors.
+- Fiction and nonfiction authors.
+- Children's book authors.
+- Business, self-help, educational, memoir, and specialist authors.
+- Authors preparing to launch a new book.
+- Authors whose published books are not receiving enough visibility.
+- Publishers and professionals managing multiple titles.
+
+The brand should communicate expertise, strategic thinking, transparency, creativity, professionalism, and an understanding of the publishing and book marketing landscape.
+
+Do not make the website feel like an inexpensive promotional service or a generic digital marketing agency. It must feel like a specialist book marketing brand.
+
+### Logo and brand assets
+
+I will provide my existing logo.
+
+Use the supplied logo as the primary brand mark. Preserve its proportions, colors, clarity, and intended appearance. Do not redesign, distort, recolor, or replace it without permission.
+
+Use the logo to inform the broader visual identity, including the website's colors, buttons, typography, backgrounds, and graphic accents.
+
+If I provide additional brand assets, use them consistently throughout the website.
+
+If an essential brand asset is missing, use a suitable temporary placeholder and clearly identify it for replacement rather than inventing a real brand asset.
+
+## 4. Creative Direction and Visual Design
+
+The website must feel premium, contemporary, polished, and visually memorable.
+
+Use the reference as a structural and functional guide, not as a design to copy pixel for pixel.
+
+Develop a distinctive design system for Victor Robert Book Marketing Agency.
+
+The overall design should combine:
+
+- Premium editorial aesthetics.
+- Professional agency presentation.
+- Strong typography and readable content.
+- Refined layouts and generous whitespace.
+- Beautiful book-related imagery.
+- Elegant gradients or subtle visual textures where appropriate.
+- High-quality book mockups and editorial imagery.
+- Consistent spacing and alignment.
+- Carefully designed service cards and case study layouts.
+- Clear visual hierarchy.
+- Strong conversion-focused calls to action.
+
+The website should look like it was created by a skilled design and development team rather than generated from a standard template.
+
+### Visual storytelling
+
+Where appropriate, use relevant imagery such as:
+
+- Professional book mockups.
+- Books displayed in editorial environments.
+- Authors writing or working.
+- Reading and publishing scenes.
+- Marketing analytics dashboards.
+- Campaign performance visualizations.
+- Social media and advertising campaign representations.
+- Book launch visuals.
+- Reader communities and literary environments.
+
+Use genuine assets where available and appropriately licensed imagery or original graphics where needed.
+
+Do not use random, irrelevant stock photography just to fill space.
+
+## 5. Interactive Design and Animation
+
+Interactivity is a major requirement.
+
+I want the website to feel alive, engaging, and responsive without sacrificing professionalism, readability, accessibility, or loading speed.
+
+Implement appropriate interactions such as:
+
+- Smooth scrolling.
+- Elegant page transitions where practical.
+- Scroll-triggered reveal animations.
+- Subtle entrance animations for headings and content.
+- Animated statistics, where the displayed figures are verified.
+- Interactive service cards.
+- Refined hover effects on buttons and cards.
+- Animated underline or navigation indicators.
+- Interactive process timelines.
+- Expandable FAQ accordions.
+- Interactive case study elements.
+- Testimonial carousels, if they improve usability.
+- Animated charts or campaign visualizations where useful.
+- Subtle parallax effects on selected sections.
+- Responsive mobile navigation.
+- Sticky or intelligently transitioning headers.
+- Animated calls to action.
+- Interactive form validation and feedback.
+- Loading states for form submissions.
+- Appropriate video sections.
+
+Animations must be purposeful, smooth, and optimized. Avoid excessive motion, distracting effects, or animations that make the site feel slow.
+
+Respect reduced-motion accessibility settings. Ensure that essential information remains visible if animations do not run.
+
+## 6. Video Integration
+
+Video can be incorporated where it genuinely improves the experience.
+
+Consider the following placements:
+
+- A short brand introduction on the homepage.
+- A founder introduction featuring Victor Robert.
+- A book marketing strategy explainer.
+- Short service overview videos.
+- Campaign process explanations.
+- Video testimonials, when genuine testimonials are available.
+- Educational videos or book marketing tips.
+
+If I have not supplied a video, create a well-designed video-ready section with a replaceable media placeholder.
+
+Do not invent a video of me or misrepresent generated footage as authentic footage of the founder.
+
+Videos must be responsive, optimized for performance, and accessible. Avoid automatically playing audio. If a background video is used, provide a fallback image and ensure the website remains usable on mobile devices.
+
+## 7. Website Architecture and Required Pages
+
+Build each page as a complete, individually coded page with its own content, layout, metadata, and functionality.
+
+Use the following page structure as the minimum scope. Expand it when your research identifies additional relevant pages on the reference website.
+
+### PAGE 1: HOME
+
+Create a powerful homepage that immediately communicates what Victor Robert Book Marketing Agency does and why authors should consider working with us.
+
+Include the following sections:
+
+1. Header with the supplied logo, navigation, and a prominent project enquiry button.
+2. Hero section with a compelling headline, supporting copy, primary CTA, secondary CTA, and premium book-related visual.
+3. Credibility section using only verified statistics, qualifications, and genuine business achievements.
+4. A concise explanation of the book marketing challenges authors face.
+5. An overview of our strategic approach.
+6. A services overview with links to individual service pages.
+7. A section explaining why authors need a strategic marketing plan.
+8. Featured case studies or campaign examples, when verified examples are available.
+9. An explanation of our marketing process.
+10. A featured pricing or campaign investment section, if appropriate.
+11. Genuine testimonials, if available.
+12. A free resource or lead magnet section, if a real resource is available or one is approved for creation.
+13. Frequently asked questions.
+14. A strong final CTA.
+15. A comprehensive footer linking to all important pages.
+
+Make the hero section distinctive and memorable. Avoid generic headlines such as "Welcome to Our Website."
+
+Potential headline direction:
+
+"Your Book Deserves More Than a Launch. It Deserves a Strategy."
+
+This is a suggested starting point. Develop the strongest original headline and supporting copy for the brand.
+
+### PAGE 2: ABOUT
+
+Create a complete About page that establishes the founder's identity, philosophy, professional positioning, and approach to book marketing.
+
+Include:
+
+- Founder introduction.
+- The agency's mission.
+- The problem the agency exists to solve.
+- Our philosophy on book marketing.
+- Our approach to helping authors.
+- The principles guiding our work.
+- What makes the agency different.
+- The value of strategic and sustained marketing.
+- Relevant professional experience and credentials, when verified.
+- A founder photo or a replaceable image placeholder.
+- A CTA to discuss a book marketing project.
+
+Write the story in a professional, authentic, first-person voice where appropriate.
+
+Do not invent my personal history, number of years in business, client list, certifications, or achievements. Use information I supply and mark missing facts for confirmation.
+
+### PAGE 3: SERVICES OVERVIEW
+
+Create a comprehensive Services page that explains the agency's offerings.
+
+Investigate the reference website's complete service structure and use it to inform the scope of our services.
+
+Consider relevant service categories such as:
+
+1. Book Launch Marketing.
+2. Book Promotion Campaigns.
+3. Amazon Book Marketing and Listing Optimization.
+4. Amazon Ads Management.
+5. Author Branding and Positioning.
+6. Author Website Development.
+7. Book SEO and Discoverability.
+8. Social Media Marketing.
+9. Facebook and Instagram Advertising.
+10. TikTok Marketing and Promotion.
+11. Reader Outreach.
+12. Book Blogger and Influencer Outreach.
+13. Book Review Outreach.
+14. Email Marketing and Reader List Growth.
+15. Goodreads Promotion.
+16. Content Marketing.
+17. Book Marketing Strategy and Consulting.
+18. Ongoing Marketing Campaign Management.
+
+Treat these as proposed service categories. Include only services that I confirm the agency can deliver, and flag uncertain capabilities for review.
+
+Each service card should include:
+
+- Service name.
+- Concise description.
+- Key benefits.
+- Relevant supporting visual or icon.
+- A clear link to its detail page.
+- A CTA to enquire about that service.
+
+Do not force every service into one crowded grid. Organize the information into clear categories and create a professional, easy-to-navigate experience.
+
+### PAGE 4: INDIVIDUAL SERVICE DETAIL PAGES
+
+Where the reference website has individual service pages, inspect them and build corresponding pages for our confirmed services.
+
+Each service page should be genuinely useful rather than a copy of the same generic template with a different title.
+
+Where relevant, include:
+
+- Hero section.
+- Explanation of the service.
+- Problems it addresses.
+- Who it is suitable for.
+- What's included.
+- Our approach.
+- The campaign workflow.
+- Deliverables.
+- Expected timeframes, when confirmed.
+- Relevant examples or case studies.
+- FAQs specific to the service.
+- Related services.
+- A project enquiry CTA.
+
+Use a reusable page template where technically appropriate, but give each service its own content and relevant visual treatment.
+
+### PAGE 5: CASE STUDIES
+
+Create a dedicated case study page that showcases the agency's work and demonstrates how book marketing strategies can be applied to different publishing situations.
+
+Study the reference site's case study structure and replicate the useful storytelling format with original content.
+
+Each case study should include, where information is available:
+
+- Author or project identification.
+- Book title and genre.
+- The original marketing challenge.
+- The author's objectives.
+- The strategy selected.
+- The channels used.
+- The implementation process.
+- The campaign duration.
+- Measurable outcomes.
+- Supporting charts or visual evidence.
+- Relevant book cover or campaign imagery.
+- A summary of lessons learned.
+- A CTA for authors with similar challenges.
+
+Use real projects and results supplied by me or otherwise properly verified.
+
+If I have not provided case studies, build the page structure and polished example layouts using clearly marked placeholders. You may also provide explicitly labelled hypothetical campaign examples to demonstrate the design, but do not present them as real client work.
+
+Never copy the reference agency's client names, book titles, testimonials, campaign results, or other identifying material and present them as ours.
+
+### PAGE 6: PRICING AND CAMPAIGN INVESTMENT
+
+Build a professional Pricing page inspired by the reference website's transparent campaign investment presentation.
+
+First, inspect the reference's pricing structure, package descriptions, inclusions, disclaimers, and enquiry workflow.
+
+For our website, design a flexible structure that can support:
+
+- Focused or single-service campaigns.
+- Book launch campaigns.
+- Multi-channel growth campaigns.
+- Full-service marketing campaigns.
+- Custom campaigns for publishers or authors with larger requirements.
+
+Do not automatically copy the reference agency's prices.
+
+I will need to approve our own prices, deliverables, and service limits. Until then, use clearly marked pricing placeholders or an enquiry-based investment model.
+
+Each pricing tier should clearly explain:
+
+- Who it is for.
+- What it includes.
+- Deliverables.
+- Scope limitations.
+- Expected duration, if confirmed.
+- Whether advertising spend is separate.
+- Additional costs, where applicable.
+- The next step to request a proposal.
+
+Make it easy to compare options without overwhelming visitors.
+
+Clearly distinguish agency service fees from advertising budgets paid to advertising platforms. Do not imply that marketing guarantees book sales, rankings, bestseller status, or specific commercial outcomes.
+
+### PAGE 7: TESTIMONIALS
+
+Create a dedicated Testimonials or Author Experiences page.
+
+Study how the reference presents author feedback and build a similarly credible, visually engaging structure for our own brand.
+
+Include:
+
+- Genuine author testimonials.
+- Author names and approved professional descriptions.
+- Book titles and covers, where permission is available.
+- Video testimonials, if supplied.
+- Optional filters by service or genre.
+- Related case studies.
+- A CTA to begin a project.
+
+Do not copy testimonials from the reference website or fabricate reviews, names, identities, or endorsements.
+
+If we do not yet have approved testimonials, create a ready-to-populate layout with clearly marked placeholders that can be replaced later.
+
+### PAGE 8: PROCESS
+
+Create a complete page explaining how an author works with Victor Robert Book Marketing Agency.
+
+Use the reference's step-by-step process as inspiration, while developing our own clear workflow.
+
+The process may include:
+
+1. Project enquiry.
+2. Initial review of the book and objectives.
+3. Marketing opportunity assessment.
+4. Strategy development.
+5. Proposal and scope approval.
+6. Campaign preparation and launch.
+7. Performance monitoring and optimization.
+8. Reporting and recommendations.
+9. Ongoing improvement or scaling, when applicable.
+
+For each stage, explain what happens, what information may be needed, what the client receives, and what comes next.
+
+Use a visually engaging timeline or interactive process presentation.
+
+Do not promise response times, turnaround times, or service levels that I have not approved.
+
+### PAGE 9: FAQ
+
+Create a comprehensive FAQ page that answers the questions prospective clients are likely to ask.
+
+Research the reference website's FAQ structure and relevant topics.
+
+Develop original answers covering subjects such as:
+
+- What book marketing involves.
+- Which authors the agency serves.
+- Which genres we support.
+- Self-publishing versus traditional publishing.
+- Available services.
+- Amazon marketing.
+- Book launch planning.
+- Marketing costs.
+- Advertising budgets.
+- Campaign duration.
+- Expected results.
+- Book sales guarantees.
+- Working with a debut author.
+- Required materials and access.
+- Reporting and communication.
+- Individual services versus full campaigns.
+- International clients.
+- The enquiry and proposal process.
+
+Use expandable FAQ accordions with accessible controls and smooth animations.
+
+Keep answers accurate, specific, and transparent. Do not invent policies, guarantees, or turnaround times.
+
+### PAGE 10: CONTACT AND PROJECT ENQUIRY
+
+Create a professional contact page with a clear, easy-to-complete enquiry form.
+
+Include:
+
+- A concise invitation to discuss a book marketing project.
+- Name.
+- Email address.
+- Country, if useful.
+- Book title.
+- Book genre.
+- Publishing status.
+- Publication date or planned launch date.
+- Website or book listing URL, if available.
+- Services of interest.
+- Primary marketing goals.
+- Approximate budget range.
+- Project description.
+- Preferred contact method.
+- Privacy consent where required.
+
+Use conditional form fields when appropriate to avoid overwhelming visitors.
+
+The form must validate input, display loading and submission states, provide clear success or error feedback, and deliver submissions to a properly configured destination.
+
+Do not build a form that merely looks functional. Connect it to an actual backend, CRM, or configured form service where supported.
+
+If I have not supplied the destination email, CRM, scheduling link, or API credentials, create a documented configuration point and tell me exactly what must be connected before launch.
+
+Never expose API keys or secret credentials in client-side code.
+
+### PAGE 11: CONSULTATION OR BOOKING
+
+Inspect whether the reference website offers a separate consultation or booking page.
+
+If it does, build an equivalent page adapted to our brand and actual consultation process.
+
+Include:
+
+- What the consultation covers.
+- Who should book.
+- What the author should prepare.
+- A scheduling integration if available.
+- A booking form or clear contact alternative.
+- Relevant FAQs.
+- A privacy notice.
+
+Do not invent a booking calendar, claim that a meeting has been scheduled, or show unavailable appointment times.
+
+If I have not supplied a scheduling provider or booking URL, make the integration replaceable and document the required setup.
+
+### PAGE 12: RESOURCES OR BLOG
+
+Inspect all educational resources and lead magnets available on the reference website.
+
+If the reference has a resources section, create a corresponding section for our brand.
+
+Potential content categories include:
+
+- Book marketing guides.
+- Amazon book discoverability.
+- Author branding.
+- Book launch checklists.
+- Advertising education.
+- Reader audience development.
+- Publishing and promotion strategy.
+
+Create a scalable blog or resource architecture that supports article pages, category navigation, featured content, search where useful, and relevant calls to action.
+
+If a lead magnet is offered, it must connect to a functioning email capture and delivery workflow once the required integration is configured.
+
+Do not pretend a PDF, download, email automation, or resource exists if it has not been created. Mark any initial content placeholders clearly.
+
+### PAGE 13: PRIVACY POLICY AND TERMS
+
+Review the reference site's legal page structure and create appropriate pages for our business.
+
+The policies must be original and adapted to our actual practices, jurisdiction, data collection, analytics, cookies, advertising, and third-party integrations.
+
+Do not copy another agency's legal text verbatim or imply that the pages constitute legal advice.
+
+Mark any details requiring my confirmation before publication.
+
+## 8. Website Navigation and User Experience
+
+Create a consistent header and footer across all relevant pages.
+
+The primary navigation should include:
+
+- Home.
+- About.
+- Services.
+- Case Studies.
+- Pricing.
+- Testimonials.
+- Process.
+- Resources.
+- FAQ.
+- Contact.
+
+If the number of items becomes unwieldy, use a carefully designed dropdown or mega menu for Services and Resources. Preserve clear access to important pages.
+
+Include a prominent CTA such as "Start Your Project" or "Discuss Your Book."
+
+The mobile navigation must be fully functional and easy to use.
+
+Every button, link, dropdown, card action, and CTA must perform its intended action. No dead links, fake buttons, or decorative elements that appear clickable but do nothing.
+
+Use clear internal linking so visitors can naturally move from a service to its case studies, pricing, FAQs, and enquiry form.
+
+## 9. Technical Architecture and Coding Requirements
+
+I want this website coded page by page, not merely described or presented as a static visual concept.
+
+Before implementation, recommend a suitable modern technology stack based on the hosting environment and the project's requirements.
+
+A preferred direction, subject to compatibility, is:
+
+- Next.js or another suitable modern React framework.
+- TypeScript.
+- A well-organized reusable component system.
+- Tailwind CSS or an equivalent maintainable styling approach.
+- A suitable animation library such as Framer Motion or Motion, where beneficial.
+- A reliable form handling and validation solution.
+- A CMS or content management approach if required for case studies, testimonials, pricing, and articles.
+
+Do not use these tools simply because they are fashionable. Select the most appropriate architecture for the actual deployment environment and explain the choice.
+
+### Code organization
+
+Create a clean, scalable codebase with:
+
+- Individual page routes.
+- Reusable header and footer components.
+- Reusable buttons and CTA components.
+- Service card components.
+- Case study components.
+- Testimonial components.
+- Pricing components.
+- FAQ components.
+- Form components.
+- Shared design tokens.
+- Centralized configuration for brand details and contact information.
+- Centralized content data where appropriate.
+- Reusable animation utilities.
+- Clear asset organization.
+
+Keep components modular and maintainable.
+
+Avoid putting the entire website into one oversized component or one long page file.
+
+Reuse shared components where that improves maintainability, but make each route a complete, well-designed page with its own content.
+
+### Routing
+
+Every page must have a real route.
+
+Use clean, descriptive URLs, such as:
+
+- `/`
+- `/about`
+- `/services`
+- `/services/book-launch-marketing`
+- `/services/amazon-book-marketing`
+- `/case-studies`
+- `/case-studies/[slug]`
+- `/pricing`
+- `/testimonials`
+- `/process`
+- `/resources`
+- `/resources/[slug]`
+- `/faq`
+- `/contact`
+- `/consultation`
+- `/privacy-policy`
+- `/terms`
+
+Adjust the route list to match the final page inventory and available content.
+
+All navigation links must resolve correctly.
+
+### Functional requirements
+
+Implement:
+
+- Responsive layouts.
+- Working forms.
+- Form validation.
+- Accessible navigation.
+- Interactive FAQ accordions.
+- Functional filters where included.
+- Functional carousels where included.
+- Working internal links.
+- Appropriate external links.
+- Error and not-found pages.
+- Useful loading and empty states.
+- Video embeds where configured.
+- Analytics integration points.
+- Search engine metadata.
+- Cookie consent functionality if required.
+- A clear deployment configuration.
+
+Document any functionality that depends on external credentials, third-party services, or a backend.
+
+## 10. Performance, Accessibility, and Responsive Design
+
+The website must work exceptionally well on:
+
+- Desktop computers.
+- Laptops.
+- Tablets.
+- Mobile phones.
+
+Use responsive typography, flexible grids, properly sized images, and mobile-friendly spacing.
+
+Optimize images and videos. Lazy-load media where appropriate. Avoid unnecessarily large animation libraries and oversized assets.
+
+Aim for strong Core Web Vitals and good Lighthouse performance, accessibility, SEO, and best-practice scores. Measure the actual implementation instead of claiming unverified scores.
+
+Implement:
+
+- Semantic HTML.
+- Accessible form labels.
+- Keyboard navigation.
+- Visible focus states.
+- Sufficient color contrast.
+- Descriptive image alt text.
+- Appropriate heading hierarchy.
+- Accessible interactive controls.
+- Reduced-motion support.
+- Responsive video behavior.
+
+Ensure that all important content remains accessible even if JavaScript animations fail.
+
+## 11. SEO and Conversion Optimization
+
+Build the website to support long-term organic discovery and convert suitable visitors into qualified enquiries.
+
+Implement:
+
+- Unique page titles.
+- Unique meta descriptions.
+- Canonical URLs.
+- Open Graph metadata.
+- Social sharing metadata.
+- XML sitemap.
+- Robots.txt.
+- Logical internal linking.
+- Search-friendly URL structures.
+- Structured data where appropriate and accurate.
+- Proper image optimization.
+- Clear heading hierarchy.
+- Relevant calls to action.
+- Conversion tracking integration points.
+
+Develop original page content targeting relevant search themes, such as book marketing services, book launch marketing, Amazon book marketing, book promotion, and author branding.
+
+Use natural language. Avoid keyword stuffing.
+
+Do not invent reviews, ratings, business credentials, or structured-data claims.
+
+If analytics or advertising tracking is configured, ensure it respects applicable consent and privacy requirements.
+
+## 12. Content and Copywriting Standards
+
+Write the website copy specifically for Victor Robert Book Marketing Agency.
+
+The writing must sound like an experienced book marketing specialist: clear, commercially aware, professional, persuasive, and human.
+
+Avoid generic AI-sounding phrases, empty marketing buzzwords, repetitive paragraphs, and exaggerated promises.
+
+Every page should explain something meaningful to a prospective client.
+
+Use strong headlines, concise supporting copy, informative sections, and clear calls to action.
+
+The messaging should focus on the challenges authors face and the value of an informed, strategic marketing approach.
+
+Important: Do not copy the reference website's text word for word. Study its messaging structure and create original content for our agency.
+
+Do not invent:
+
+- Client names.
+- Case studies.
+- Testimonials.
+- Sales figures.
+- Campaign results.
+- Rankings.
+- Years of experience.
+- Numbers of books promoted.
+- Numbers of clients served.
+- Professional certifications.
+- Partnerships.
+- Awards.
+- Guaranteed outcomes.
+
+Where factual information is missing, use a clearly marked placeholder or ask me for the information.
+
+## 13. Conversion Strategy
+
+The website should guide visitors toward meaningful next steps without feeling pushy.
+
+Use CTAs appropriate to each page, such as:
+
+- Start Your Project.
+- Discuss Your Book.
+- Explore Our Services.
+- View Case Studies.
+- Request a Campaign Proposal.
+- Book a Consultation.
+- Download a Free Guide, when available.
+- Contact Victor Robert.
+
+Make the next step clear wherever a visitor might be ready to enquire.
+
+Use contextual CTAs rather than repeating the same oversized button after every section.
+
+The enquiry form should collect enough information to qualify a potential project without creating unnecessary friction.
+
+If WhatsApp, email, a booking calendar, or a CRM will be used, integrate the actual supplied contact details and destination links.
+
+Do not invent contact details or use nonfunctional placeholder links in the final production website.
+
+## 14. Development Workflow
+
+Follow this workflow rather than rushing directly into coding.
+
+### Phase 1: Research and planning
+
+1. Inspect the entire reference website.
+2. Build a complete sitemap.
+3. Document each page's sections and functionality.
+4. Identify reusable components and recurring design patterns.
+5. Identify our missing brand assets and business information.
+6. Recommend the technical stack.
+7. Prepare a page-by-page development plan.
+
+### Phase 2: Brand and design system
+
+1. Incorporate my supplied logo.
+2. Define colors based on the logo and approved brand direction.
+3. Select typography.
+4. Define spacing, buttons, cards, backgrounds, and borders.
+5. Establish animation and interaction rules.
+6. Create a consistent responsive design system.
+
+### Phase 3: Shared architecture
+
+1. Set up the project.
+2. Configure routing.
+3. Build the header and navigation.
+4. Build the footer.
+5. Create shared components.
+6. Establish global styles and reusable design tokens.
+
+### Phase 4: Page-by-page implementation
+
+Build and complete each page individually, starting with the homepage and shared components.
+
+Then proceed through About, Services, service detail pages, Case Studies, Pricing, Testimonials, Process, FAQ, Contact, Consultation, Resources, and the legal pages.
+
+Adapt the order when a dependency makes another sequence more efficient.
+
+For every page:
+
+1. Implement the complete layout.
+2. Write original page-specific content.
+3. Add relevant images and media.
+4. Implement animations and interactions.
+5. Connect internal navigation.
+6. Implement responsive layouts.
+7. Test the page before proceeding.
+
+Do not stop after producing a homepage preview.
+
+### Phase 5: Functional integrations
+
+Connect and test:
+
+- Enquiry forms.
+- Email delivery or CRM integrations.
+- Consultation booking.
+- Lead magnet delivery.
+- Analytics.
+- Video embeds.
+- Cookie consent, if needed.
+- Other approved third-party integrations.
+
+If an integration cannot be completed without my credentials or approval, document the missing requirement and leave a clear configuration path.
+
+### Phase 6: Quality assurance
+
+Test every page on desktop and mobile.
+
+Check:
+
+- Navigation.
+- Buttons.
+- Internal and external links.
+- Form validation and submission.
+- Animations.
+- Responsive layouts.
+- Image loading.
+- Video playback.
+- Accessibility.
+- Metadata.
+- Broken routes.
+- Console errors.
+- Performance.
+- Security-sensitive configuration.
+
+Fix identified problems instead of merely listing them.
+
+### Phase 7: Deployment and handover
+
+Prepare the website for deployment to the selected hosting platform.
+
+Provide:
+
+- Complete source code.
+- Project file structure.
+- Setup instructions.
+- Environment variable documentation.
+- Integration configuration instructions.
+- Build and deployment instructions.
+- A list of outstanding items requiring my approval.
+- A summary of tests performed.
+- Any limitations that remain.
+
+Do not claim the site is deployed or fully functional until the actual deployment and relevant tests have succeeded.
+
+## 15. Final Quality Standard
+
+The finished result must meet the following standard:
+
+- A complete multi-page website, not just a homepage.
+- A distinctive identity for Victor Robert Book Marketing Agency.
+- My existing logo used correctly.
+- Comprehensive page coverage based on the reference website.
+- Original content and branding.
+- Premium visual design.
+- Purposeful animation and interactive elements.
+- Video-ready sections.
+- Responsive desktop and mobile layouts.
+- Real working navigation and calls to action.
+- Functional forms when the required integrations are configured.
+- SEO-ready page architecture.
+- Maintainable, page-by-page code.
+- Honest handling of missing information and unverified claims.
+- Documented setup, testing, and deployment.
+
+I want the website to feel established, trustworthy, strategic, and memorable. It should demonstrate that we understand the business of marketing books, not simply that we know how to design attractive web pages.
+
+## 16. How to Begin
+
+Start by researching the reference website thoroughly and creating the full sitemap and page-by-page implementation plan.
+
+Then inspect the assets I provide, especially my logo, and establish the brand design system.
+
+After that, begin implementing the actual website, one page at a time.
+
+Do not return only a strategy document, a wireframe, a homepage screenshot, or a generic template. The objective is to build the real website and its working code.
+
+If you need essential information from me, ask focused questions. For information that can reasonably be handled with placeholders, proceed without unnecessarily delaying development.
+
+**Primary reference:** https://albertnathanagency.com/
+
+**Brand:** Victor Robert Book Marketing Agency
+
+**Founder:** Victor Robert
+
+**Primary objective:** Build a premium, original, interactive, animated, SEO-ready, fully responsive book marketing agency website with comprehensive page coverage and functional conversion pathways.
+
+Begin with the research, sitemap, and technical plan, then move into implementation.
